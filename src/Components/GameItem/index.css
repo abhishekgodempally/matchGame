@@ -1,0 +1,12 @@
+.image-btn {
+  border-style: none;
+  border-width: 0px;
+  margin: 7px;
+  background-color: transparent;
+}
+
+.image-item-styles {
+  height: 110px;
+  width: 130px;
+  border-radius: 12px;
+}
